@@ -1,7 +1,7 @@
 Package: demoPackage
 Type: Package
 Title: BCarvins first package
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: c(person("Rebecca", "Carvin", role = c("aut","cre"),
     email = "rbcarvin@usgs.gov"))
 Description: So far, this package hasn't done anything...
